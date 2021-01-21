@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaCarnet</string>
+    <string name="name">Name</string>
+    <string name="last_name_1">1 LastName</string>
+    <string name="last_name_2">2 LastName</string>
+    <string name="phone">Telephone</string>
+    <string name="mail">Mail</string>
+    <string name="confirm_mail">Confirm Mail</string>
+    <string name="are_partner">Are you a Real Madrid Partner?</string>
+    <string name="are_18">Are you under 18?</string>
+    <string name="are_sp">Do you live outside of Spain?</string>
+    <string name="confirm">Accept</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter">Enter</string>
+    <string name="accept">Accept</string>
+</resources>

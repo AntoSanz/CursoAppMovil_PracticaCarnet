@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticaCarnet</string>
+    <string name="name">Nombre</string>
+    <string name="last_name_1">1 Apellido</string>
+    <string name="last_name_2">2 Apellido</string>
+    <string name="phone">Teléfono</string>
+    <string name="mail">Email</string>
+    <string name="confirm_mail">Confirmar Email</string>
+    <string name="are_partner">¿Eres socio del Real Madrid?</string>
+    <string name="are_18">¿Eres menor de 18 años?</string>
+    <string name="are_sp">¿Resides fuera de España?</string>
+    <string name="confirm">Aceptar</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="enter">Entrar</string>
+    <string name="accept">Aceptar</string>
+</resources>
